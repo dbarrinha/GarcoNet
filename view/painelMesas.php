@@ -45,17 +45,18 @@
             </nav>
         </div>
         <!-- Fim Barra de Navegação-->
-
+       
 
 
         <div class="container"   style="min-height: 700px; margin-top: 65px;">
             
 
             <div class="row">
-                <div class="col s12 m6">
-                    <div class="card deep-purple darken-4">
-                        <div class="card-content white-text">
+                <div class="col s4 m4">
+                    <div class="card hoverable deep-purple darken-4">
+                        <div class="card-content  white-text">
                             <span class="card-title">Mesa 1</span>
+                            <hr/>
                             <p>Atendente: Campo Maior</p>
                             <p>Status: Ocupada</p>
                             <p>Iniciada às: 21:30</p>
@@ -65,10 +66,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m6">
-                    <div class="card deep-purple darken-4">
+                <div class="col s4 m4">
+                    <div class="card hoverable deep-purple darken-4">
                         <div class="card-content white-text">
                             <span class="card-title">Mesa 2</span>
+                            <hr/>
                             <p>Atendente: Campo Maior</p>
                             <p>Status: Ocupada</p>
                             <p>Iniciada às: 21:30</p>
@@ -78,10 +80,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m6">
-                    <div class="card deep-purple darken-4">
+                <div class="col s4 m4">
+                    <div class="card hoverable deep-purple darken-4">
                         <div class="card-content white-text">
                             <span class="card-title">Mesa 3</span>
+                            <hr/>
                             <p>Atendente: Campo Maior</p>
                             <p>Status: Ocupada</p>
                             <p>Iniciada às: 21:30</p>

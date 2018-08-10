@@ -29,8 +29,7 @@
         </style>
     </head>
 
-    <body >
-
+    <body>
         <!-- Dropdown Structure -->
         <ul id='dropdown1' class='dropdown-content deep-purple darken-4 '>
             <li><a class="white-text" href="#!">Perfil</a></li>
@@ -56,7 +55,6 @@
         <!-- DIALOGS DA PÁGINA -->
         <?php include './dialogs/acoesMesa.php'; ?>
         <?php include './dialogs/diretoNoBalcao.php'; ?>
-
 
         <div class="container" style="min-height: 700px; margin-top: 65px;">
             <div class="row">
